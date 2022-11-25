@@ -1,0 +1,10 @@
+node_modules
+coverage
+.nyc_output
+.env
+src/Service/CarServiceVelho.ts
+src/Models/CarODMExtendsAbstract.ts
+src/Controllers/CarControllerVelho.ts
+public
+__tests__
+README.md
